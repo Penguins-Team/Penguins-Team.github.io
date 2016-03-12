@@ -1,0 +1,96 @@
+body{margin:0; padding:0;}
+div{margin:0;padding:0;}
+.top{
+    width:100%;
+    background-color:black;
+    height:40px;
+    position: fixed;
+    z-index: 20;
+    top:0;
+    left:0;
+}
+.left{
+    width:20%;
+    height:800px;
+    background-color:white;
+    float: left;
+    position:fixed;
+    top:40px;
+    left:0px;
+
+
+}
+.right{
+    width:80%;
+    float: right;
+    height:auto;
+    background-color: red;
+    position: absolute;
+    top:40px;
+    left: 20%;
+
+}
+.left_0{
+    margin-left:  50%;
+    position: relative;
+    left: -50px;
+    height: 40px;
+    margin-right: 50%;
+}
+.left_1{
+    margin-left:  50%;
+    position: relative;
+    left: -50px;
+    margin-right: 50%;
+}
+.left_2{
+    margin-left:  50%;
+    position: relative;
+    left: -50px;
+    margin-right: 50%;
+}
+.left_3{
+    margin-left:  50%;
+    position: relative;
+    left: -50px;
+    margin-right: 50%;
+}
+.left_4{
+    margin-left:  50%;
+    position: relative;
+    left: -50px;
+    margin-right: 50%;
+}
+.left_5{
+    margin-left:  50%;
+    position: relative;
+    left: -50px;
+    margin-right: 50%;
+}
+.hp_1_1{
+    float: left;
+}
+.hp_2{
+    clear: both;
+}
+.hp_2_1{
+    float: left;
+}
+.hp_3{
+    clear: both;
+}
+.hp_3_1{
+    float: left;
+}
+.hp_4{
+    clear: both;
+}
+.hp_4_1{
+    float: left;
+}
+.hp_5{
+    clear: both;
+}
+.hp_5_1{
+    float: left;
+}
